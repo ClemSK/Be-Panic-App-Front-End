@@ -23,6 +23,47 @@ To create a e-commerce shop focused on panic-buying.
 - filtering on product page
 - having buyer and seller access to the page
 
+# Technology used
+
+Front:
+
+- React
+- Bulma
+- CSS
+
+Back:
+
+- Node
+- Express
+- Mongoose
+- MongoDB
+
+### Dependencies
+
+- Axios
+- Babel
+- Cors
+- Dotenv
+- React-router-dom
+- Babel
+- Webpack
+- Json Web Token (jwt)
+- Nodemailer
+- Nodemon
+- Bcrypt
+
+Design:
+Figma
+
+### Version Control
+Git
+GitHub
+
+### Deployments
+
+Front: Netlify
+Back: Heroku
+
 ## Running the apps
 
 we used react to build the app and to test the front-end we used the script 'npm run start:client' and for the back-end we used 'npm start dev'
