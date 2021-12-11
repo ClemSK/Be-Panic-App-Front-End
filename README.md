@@ -55,7 +55,8 @@ Back:
 Design:
 Figma
 
-### Version Control
+### Version Control
+
 Git
 GitHub
 
