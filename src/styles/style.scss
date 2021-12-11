@@ -1,0 +1,24 @@
+@import '~bulma/bulma.sass';
+
+.bg-img {
+  background-image: url(https://cdn.corporatefinanceinstitute.com/assets/panic-buying-1024x683.jpeg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  opacity: 0.9;
+  image-rendering: optimizeQuality;
+  background-color: #999;
+}
+
+.home-title {
+  color: red;
+  font-size: 60px;
+  font-family: 'Faster One', cursive;
+  text-shadow: 4px 5px 6px rgb(0, 0, 0);
+  letter-spacing: 0.3em;
+}
+
+.search-box {
+  margin-top: 10px;
+}
