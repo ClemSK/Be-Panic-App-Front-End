@@ -1,5 +1,25 @@
 # Be-Panic-App-Front-End
 
+https://panic-buying-ecomm-shop.netlify.app
+
+Brief:
+
+### Technical Requirements:
+
+- Build a full-stack application by making your own backend and your own front-end
+- Use an Express API to serve your data from a Mongo database
+- Consume your API with a separate front-end built with React
+- Be a complete product which most likely means multiple relationships and CRUD functionality for at least a couple of models
+- Implement thoughtful user stories/wireframes that are significant enough to help you know which features are core MVP and which you can cut
+- Have a visually impressive design to kick your portfolio up a notch and have something to wow future clients & employers. ALLOW time for this.
+- Be deployed online so it's publicly accessible.
+
+### Necessary Deliverables
+
+- A readme file with:
+- An embedded screenshot of the app
+- Link to your user stories/wireframes – sketches of major views / interfaces in your application
+
 ## Original Intent
 
 To create a e-commerce shop focused on panic-buying.
@@ -52,18 +72,19 @@ Back:
 - Nodemon
 - Bcrypt
 
-Design:
-Figma
+### Design
+
+- Figma
 
 ### Version Control
 
-Git
-GitHub
+- Git
+- GitHub
 
 ### Deployments
 
-Front: Netlify
-Back: Heroku
+- Front: Netlify
+- Back: Heroku
 
 ## Running the apps
 

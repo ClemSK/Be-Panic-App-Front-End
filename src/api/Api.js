@@ -92,6 +92,7 @@ export const deleteProduct = async (id) => {
 export const registerUser = async (formData) => {
   const options = { method: 'POST', url: `/api/register`, body: formData }
   const { data } = await request(options)
+  console.log('this is the data: ', data, 'this is the options: ', options)
   return data
 }
 
