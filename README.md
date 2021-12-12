@@ -2,7 +2,7 @@
 
 https://panic-buying-ecomm-shop.netlify.app
 
-Brief:
+![Panic Buyers Logo](https://user-images.githubusercontent.com/64632596/145711058-ca1210ea-06dd-484e-8c68-28109fd6c80f.jpg)
 
 ### Technical Requirements:
 
@@ -103,6 +103,16 @@ for example:
 - there is no message to mention that the search returns no result in the product page
 
 ## Screenshots and Wireframes
+
+### Screenshots
+
+![Home Page](https://user-images.githubusercontent.com/64632596/145711194-7984a443-47d6-4ace-b1cd-835bbf59ea48.png 'Home Page')
+![Product Page](https://user-images.githubusercontent.com/64632596/145712389-f29a63cd-bb59-4200-958d-ef3986d2714e.png 'Product Page')
+![Register Page](https://user-images.githubusercontent.com/64632596/145711276-2fa7535d-0eff-477a-9b16-718ab6968195.png 'Register Page')
+![Login Page](https://user-images.githubusercontent.com/64632596/145711372-808e25e8-de0d-4f62-a004-7279eae60d7b.png 'Login Page')
+![Basket Page](https://user-images.githubusercontent.com/64632596/145712331-eb7fe192-7706-4e5c-81c5-86826ce6beeb.png 'Basket Page')
+
+### Wireframes
 
 ![alt text](https://user-images.githubusercontent.com/64632596/137585118-de0ee6ad-acb8-4ed3-837f-20197b5ee2ce.png 'Wireframe Home')
 
